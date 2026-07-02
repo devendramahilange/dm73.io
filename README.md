@@ -25,7 +25,7 @@ JNU
 
 ## Professional Summary
 
-Devendra is a Resecher at Jawaharlal Nehru University in New Delhi, India. His research area is Natural Languuage Processing, Machine Learning and AI. His research has been published in the conferences like Elseiver.
+Devendra is a Resecher at Jawaharlal Nehru University in New Delhi, India. His research area is Natural Languuage Processing, Machine Learning and AI. His research has been published in the Procedia Computer Science Elseiver Journal.
 
 <p>
   <a href="./resume.pdf">
