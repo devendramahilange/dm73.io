@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="128" height="128" alt="Profile photo" />
+<img src="avatar.jpg" width="128" height="128" alt="Profile photo" />
 
 # Devendra Mahilange
 
