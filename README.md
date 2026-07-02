@@ -14,7 +14,7 @@ JNU
 
 <p>
   <a href="mailto:devendramahilange@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/dm73.io"><img src="https://img.shields.io/badge/GitHub-yourusername-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.dm73.io"><img src="https://img.shields.io/badge/GitHub-yourusername-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/devendra-mahilange"><img src="https://img.shields.io/badge/LinkedIn-yourusername-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.dm73.io"><img src="https://img.shields.io/badge/Website-Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
