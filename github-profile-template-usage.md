@@ -18,7 +18,7 @@ GitHub profile READMEs do not allow full custom CSS, so this version uses GitHub
 The template links to:
 
 ```text
-./Alex-Johnson-CV.pdf
+./resume.pdf
 ```
 
 Add your CV with that file name, or update the link in the template.
