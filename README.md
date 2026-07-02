@@ -29,7 +29,7 @@ Devendra is a Resecher at Jawaharlal Nehru University in New Delhi, India. His r
 
 <p>
   <a href="./devendra.pdf">
-    <img src="repository/assets/resume.pdf" alt="Download CV" />
+    <img src="https:\\repository/assets/resume.pdf" alt="Download CV" />
   </a>
 </p>
 
